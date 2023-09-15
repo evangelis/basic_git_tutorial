@@ -17,4 +17,5 @@ git status # Changes to be commited (git rm --cached <file> to unstage)
 git commit -m "Add files"
 #Push committed changes upstream
 git push origin master
-
+#3.Editing the README.md in github :Remote repo will be ahead of local repo .Need to push changes downstream ie do a git pull origin master
+   #before continuing work on local repo  so as to avoid conflicts
